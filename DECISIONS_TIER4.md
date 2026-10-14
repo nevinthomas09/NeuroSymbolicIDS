@@ -1,6 +1,6 @@
 # DECISIONS_TIER4.md — committed before any Tier 4 run
 
-Committed on: ____________ (fill in the date of the commit). No Tier 4 experiment had been run when this
+Committed on: 14/10/2026. No Tier 4 experiment had been run when this
 file was committed. Once committed, the thresholds below are those in `v2/tier4_verdicts.py` and may not
 change after results are seen. Amendments go below the line, dated, and say whether they were written
 before or after the run they affect.
